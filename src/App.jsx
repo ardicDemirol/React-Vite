@@ -2,7 +2,7 @@
 // import { Home, About } from "./tutorial/04-project-structure/starter/Pages";
 // import Example from "./tutorial/04-project-structure/starter/Example";
 // import List from "./tutorial/05-leverage-javascript/starter/List";
-import Starter from "./tutorial/10-useReducer/starter/01-useReducer";
+import Starter from "./tutorial/11-performance/starter/01-lower-state";
 
 function App() {
   return (
